@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-design",
+  "version": "1.0.0",
+  "description": "css design using bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagyashreemeher/bootstrap-design.git"
+  },
+  "keywords": [
+    "css",
+    "ui",
+    "design",
+    "html",
+    "bootstrap"
+  ],
+  "author": "bhagyashree meher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhagyashreemeher/bootstrap-design/issues"
+  },
+  "homepage": "https://github.com/bhagyashreemeher/bootstrap-design#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
